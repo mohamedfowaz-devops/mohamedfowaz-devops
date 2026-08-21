@@ -16,7 +16,7 @@ AWS DevOps Engineer with 1.5+ years of experience supporting cloud infrastructur
 ### 🛠️ Tools & Technologies
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,jenkins,ansible,linux,bash,prometheus,grafana,argocd,git" />
+  <img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,jenkins,ansible,linux,bash,prometheus,grafana,git" />
 </p>
 
 ### Socials
