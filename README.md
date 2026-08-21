@@ -13,30 +13,7 @@ AWS DevOps Engineer with 1.5+ years of experience supporting cloud infrastructur
 * 💬  Ask me about Currently building practical DevOps projects to strengthen my real-world skills and open to connecting with others in the DevOps and cloud community.
 
 <p align="left">
-  <!-- 1. AWS -->
-  <a href="https://amazon.com" target="_blank" rel="noreferrer"><img src="https://githubusercontent.com" alt="Amazon Web Services" title="Amazon Web Services" width="36" height="36" /></a>
-  <!-- 2. Terraform -->
-  <a href="https://terraform.io" target="_blank" rel="noreferrer"><img src="https://jsdelivr.net" alt="Terraform" title="Terraform" width="36" height="36" /></a>
-  <!-- 3. Docker -->
-  <a href="https://docker.com" target="_blank" rel="noreferrer"><img src="https://githubusercontent.com" alt="Docker" title="Docker" width="36" height="36" /></a>
-  <!-- 4. Kubernetes -->
-  <a href="https://kubernetes.io" target="_blank" rel="noreferrer"><img src="https://githubusercontent.com" alt="Kubernetes" title="Kubernetes" width="36" height="36" /></a>
-  <!-- 5. Jenkins -->
-  <a href="https://jenkins.io" target="_blank" rel="noreferrer"><img src="https://jsdelivr.net" alt="Jenkins" title="Jenkins" width="36" height="36" /></a>
-  <!-- 6. Ansible -->
-  <a href="https://ansible.com" target="_blank" rel="noreferrer"><img src="https://jsdelivr.net" alt="Ansible" title="Ansible" width="36" height="36" /></a>
-  <!-- 7. Linux -->
-  <a href="https://linux.org" target="_blank" rel="noreferrer"><img src="https://githubusercontent.com" alt="Linux" title="Linux" width="36" height="36" /></a>
-  <!-- 8. Shell (GNU Bash) -->
-  <a href="https://gnu.org" target="_blank" rel="noreferrer"><img src="https://githubusercontent.com" alt="GNU Bash" title="GNU Bash" width="36" height="36" /></a>
-  <!-- 9. Prometheus -->
-  <a href="https://prometheus.io" target="_blank" rel="noreferrer"><img src="https://jsdelivr.net" alt="Prometheus" title="Prometheus" width="36" height="36" /></a>
-  <!-- 10. Grafana -->
-  <a href="https://grafana.com" target="_blank" rel="noreferrer"><img src="https://jsdelivr.net" alt="Grafana" title="Grafana" width="36" height="36" /></a>
-  <!-- 11. Argo CD -->
-  <a href="https://github.io" target="_blank" rel="noreferrer"><img src="https://jsdelivr.net" alt="Argo CD" title="Argo CD" width="36" height="36" /></a>
-  <!-- 12. Git -->
-  <a href="https://git-scm.com" target="_blank" rel="noreferrer"><img src="https://githubusercontent.com" alt="Git" title="Git" width="36" height="36" /></a>
+<a href="https://amazon.com" target="_blank" rel="noreferrer"><img src="https://githubusercontent.com" alt="Amazon Web Services" title="Amazon Web Services" width="36" height="36" /></a><a href="https://terraform.io" target="_blank" rel="noreferrer"><img src="https://jsdelivr.net" alt="Terraform" title="Terraform" width="36" height="36" /></a><a href="https://docker.com" target="_blank" rel="noreferrer"><img src="https://githubusercontent.com" alt="Docker" title="Docker" width="36" height="36" /></a><a href="https://kubernetes.io" target="_blank" rel="noreferrer"><img src="https://githubusercontent.com" alt="Kubernetes" title="Kubernetes" width="36" height="36" /></a><a href="https://jenkins.io" target="_blank" rel="noreferrer"><img src="https://jsdelivr.net" alt="Jenkins" title="Jenkins" width="36" height="36" /></a><a href="https://ansible.com" target="_blank" rel="noreferrer"><img src="https://jsdelivr.net" alt="Ansible" title="Ansible" width="36" height="36" /></a><a href="https://linux.org" target="_blank" rel="noreferrer"><img src="https://githubusercontent.com" alt="Linux" title="Linux" width="36" height="36" /></a><a href="https://gnu.org" target="_blank" rel="noreferrer"><img src="https://githubusercontent.com" alt="GNU Bash" title="GNU Bash" width="36" height="36" /></a><a href="https://prometheus.io" target="_blank" rel="noreferrer"><img src="https://jsdelivr.net" alt="Prometheus" title="Prometheus" width="36" height="36" /></a><a href="https://grafana.com" target="_blank" rel="noreferrer"><img src="https://jsdelivr.net" alt="Grafana" title="Grafana" width="36" height="36" /></a><a href="https://github.io" target="_blank" rel="noreferrer"><img src="https://jsdelivr.net" alt="Argo CD" title="Argo CD" width="36" height="36" /></a><a href="https://git-scm.com" target="_blank" rel="noreferrer"><img src="https://githubusercontent.com" alt="Git" title="Git" width="36" height="36" /></a>
 </p>
 
 ### Socials
