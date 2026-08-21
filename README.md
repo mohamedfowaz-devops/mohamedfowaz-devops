@@ -12,7 +12,6 @@ AWS DevOps Engineer with 1.5+ years of experience supporting cloud infrastructur
 * 👥  I'm looking to collaborate on DevOps and cloud infrastructure projects, CI/CD automation, AWS, Terraform, Docker, Kubernetes, Linux automation, and beginner-friendly open-source projects.
 * 💬  Ask me about Currently building practical DevOps projects to strengthen my real-world skills and open to connecting with others in the DevOps and cloud community.
 
-* 
 ### 🛠️ Tools & Technologies
 
 <p align="left">
