@@ -25,7 +25,7 @@ AWS DevOps Engineer with 1.5+ years of experience supporting cloud infrastructur
 <a href="https://www.github.com/mohamedfowaz-devops" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/mohamedfowaz-devops?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-/n ### Badges
+ ### Badges
 
 <b>My GitHub Stats</b>
 
