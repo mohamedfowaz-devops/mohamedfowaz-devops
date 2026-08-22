@@ -7,10 +7,11 @@ Junior Devops Engineer
 AWS DevOps Engineer with 1.5+ years of experience supporting cloud infrastructure and development/pre-production environments. Hands-on with AWS, Terraform, Jenkins, Docker, Kubernetes, Ansible, Linux, Git/GitHub, Prometheus, and Grafana. Experienced in infrastructure provisioning, CI/CD support, containerized deployments, monitoring, troubleshooting, and automation. Currently strengthening practical DevOps skills through hands-on projects and labs.
 
 * 🌍  I'm based in Chennai
-* ✉️  You can contact me at [fawazcse17@gmail.com](mailto:fawazcse17@gmail.com)
+* ✉️  You can contact me at [fawazcse17@gmail.com](mailto:fawazcse17@gmail.com),+91 7305197394
 * 🧠  I'm currently learning AWS, Terraform, Docker, Kubernetes, Jenkins, Ansible, Linux, Shell scripting, Python, and CI/CD automation and building hands-on projects
 * 👥  I'm looking to collaborate on DevOps and cloud infrastructure projects, CI/CD automation, AWS, Terraform, Docker, Kubernetes, Linux automation, and beginner-friendly open-source projects.
 * 💬  Ask me about Currently building practical DevOps projects to strengthen my real-world skills and open to connecting with others in the DevOps and cloud community.
+* Currently I am looking for position of Junior Devops Engineer, Site Reliability Engineer in Chennai. 
 
 ### 🛠️ Tools & Technologies
 
