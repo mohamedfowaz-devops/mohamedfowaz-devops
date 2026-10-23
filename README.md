@@ -1,10 +1,9 @@
 Hi 👋 My name is Mohamed Fowaz
 ==============================
-
-Junior Devops Engineer
+ Devops Engineer
 ----------------------
 
-AWS DevOps Engineer with 1.5+ years of experience supporting cloud infrastructure and development/pre-production environments. Hands-on with AWS, Terraform, Jenkins, Docker, Kubernetes, Ansible, Linux, Git/GitHub, Prometheus, and Grafana. Experienced in infrastructure provisioning, CI/CD support, containerized deployments, monitoring, troubleshooting, and automation. Currently strengthening practical DevOps skills through hands-on projects and labs.
+AWS DevOps Engineer with 1.8 years of experience supporting cloud infrastructure and development/pre-production environments. Hands-on with AWS, Terraform, Jenkins, Docker, Kubernetes, Ansible, Linux, Git/GitHub, Prometheus, and Grafana. Experienced in infrastructure provisioning, CI/CD support, containerized deployments, monitoring, troubleshooting, and automation. Currently strengthening practical DevOps skills through hands-on projects and labs.
 
 * 🌍  I'm based in Chennai
 * ✉️  You can contact me at [fawazcse17@gmail.com](mailto:fawazcse17@gmail.com),+91 7305197394
