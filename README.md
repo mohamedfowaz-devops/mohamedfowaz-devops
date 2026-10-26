@@ -43,6 +43,6 @@ To grow as a DevOps Engineer by applying my cloud infrastructure knowledge, stre
 
 ## 🤝 Connect With Me
 
-- **LinkedIn:** [Add your LinkedIn profile URL]
+- **LinkedIn:** https://linkedin.com/in/mohamed-fowaz
 - **GitHub:** [mohamedfowaz-devops](https://github.com/mohamedfowaz-devops)
 
