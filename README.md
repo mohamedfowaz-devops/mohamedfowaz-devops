@@ -1,6 +1,6 @@
 # Hi, I'm a Cloud & DevOps Engineer 👋
 
-I'm a Cloud Infrastructure Support Engineer at Cognizant, interested in AWS, DevOps, infrastructure automation, and cloud operations.
+I'm a InfraOps Engineer at Cognizant, interested in AWS, DevOps, infrastructure automation, and cloud operations.
 
 I have experience in cloud infrastructure monitoring and incident management across AWS, Azure, and private cloud environments, along with hands-on AWS and DevOps projects.
 
